@@ -27,7 +27,7 @@
         "webpack-dev-server": "^5.2.6",
         "json5": "^2.2.3",
         "loader-utils": "^1.4.2",
-        "fast-uri": "^3.1.5",
+        "fast-uri": "^3.1.7",
         "uuid": "^11.1.1",
         "cipher-base": "^1.0.5",
         "follow-redirects": "^1.16.0",
